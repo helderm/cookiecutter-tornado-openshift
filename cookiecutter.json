@@ -1,0 +1,8 @@
+{
+    "author": "Your name",
+    "email": "your@email.com",
+    "app_name": "myapp",
+    "description": "My Tornado app!",
+    "url": "http://github.com/yourname/yourapp",
+    "version": "0.1.0"
+}
